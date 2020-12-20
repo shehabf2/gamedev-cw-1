@@ -1,0 +1,13 @@
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.exe
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csprojAssemblyReference.cache
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\fnshe\Documents\GameDev\gamedev-cw-1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache
