@@ -23,7 +23,7 @@ namespace Exercise1
 
             Console.WriteLine("Player 2 is {0} and her age is {1}. Her superpowers are {2} and {3}.", heroName, heroAge, heroSuperPower1, heroSuperpower2);
 
-            ageDifference = heroAge - age;
+            ageDifference = Math.Abs(heroAge - age);
             Console.WriteLine("The age Difference between {0} and {1} is {2}", heroName, characterName, ageDifference);
 
             bool older = heroAge > age;
