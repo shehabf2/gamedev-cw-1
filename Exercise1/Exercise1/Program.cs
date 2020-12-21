@@ -28,6 +28,9 @@ namespace Exercise1
 
             bool older = heroAge > age;
             Console.WriteLine("Is {0} older than {1}? {2}", heroName, characterName, older);
+
+            bool samePowers = superPower1 == heroSuperPower1;
+            Console.WriteLine("Do the players have the same superpowers? {0}", samePowers);
         }
     }
 }
