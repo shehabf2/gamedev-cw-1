@@ -16,6 +16,7 @@ namespace Exercise1
 
             Console.WriteLine("Player 1 is {0} and his age is {1}. His superpowers are {2} and {3}. his speed is {4}", characterName, age, superPower1, superPower2, speed);
 
+            //exercise 2
             string heroName = "Wilson";
             string heroSuperPower1 = "programming";
             string heroSuperpower2 = "engineering";
