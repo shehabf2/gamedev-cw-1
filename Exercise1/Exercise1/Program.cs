@@ -4,7 +4,7 @@ namespace Exercise1
 {
     class Program
     {
-        static double playerSpeed;
+        static double playerSpeed; // exercise 3
 
         static void Main(string[] args)
         {
