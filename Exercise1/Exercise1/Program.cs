@@ -38,7 +38,7 @@ namespace Exercise1
             //exercise 3
             SetSpeed(2.5);
 
-            GetSpeed();
+            Console.WriteLine("the current player speed is " + GetSpeed());
 
         }
 
@@ -46,8 +46,8 @@ namespace Exercise1
             playerSpeed = pspeed;
         }
 
-        static void GetSpeed() {
-            Console.WriteLine("the current player speed is " + playerSpeed);
+        static double GetSpeed() {
+            return playerSpeed;
         }
 
     }
