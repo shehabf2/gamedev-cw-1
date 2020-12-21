@@ -4,6 +4,8 @@ namespace Exercise1
 {
     class Program
     {
+        static double playerSpeed;
+
         static void Main(string[] args)
         {
             string characterName = "Ahmed";
@@ -31,6 +33,21 @@ namespace Exercise1
 
             bool samePowers = superPower1 == heroSuperPower1;
             Console.WriteLine("Do the players have the same superpowers? {0}", samePowers);
+
+            //exercise 3
+            SetSpeed(2.5);
+
+            GetSpeed();
+
         }
+
+        static void SetSpeed(double pspeed) {
+            playerSpeed = pspeed;
+        }
+
+        static void GetSpeed() {
+            Console.WriteLine("the current player speed is " + playerSpeed);
+        }
+
     }
 }
